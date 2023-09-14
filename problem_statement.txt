@@ -1,0 +1,2 @@
+A client gave us a dataset which contains the sales of a company dealing in three types of supplies i.e. Furniture, Office Supply, and Technologies. Using that dataset, we need to provide insights on their total sales, changes in sales, profits, top customers, categories and product names etc., are to be shown in a dashboard. Main user requirement is to create a dashboard for the client.
+The csv file for the sales of data is attached. The insights should be provided yearly or monthly. 
